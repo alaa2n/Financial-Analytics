@@ -261,7 +261,8 @@ Interactive Financial Dashboard
 ```
 
 ---
-
+<img width="1920" height="967" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/82f3b984-ed34-420c-953d-0424689db984" />
+<img width="1743" height="773" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/dffc1af3-9736-489d-91fa-3961febc13cb" />
 <img width="1323" height="753" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/fcb0430e-922c-4141-92b4-b0863c92270d" />
 <img width="1325" height="750" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/a4940e4b-cd9b-495e-8ac0-0f44522efa65" />
 <img width="1318" height="741" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/8bcaffbf-8f53-4fff-8529-eeec18c5d08f" />
